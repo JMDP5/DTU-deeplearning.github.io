@@ -9,7 +9,7 @@ published: true
 ---
 
 
-Below you will find links to the software we use to run the exercises
+Below you will find links to the software we use to run the exercises. Please ask questions in the comment section below if you have trouble installing some of the software
 
 ### Python
 We recommend that you use either anaconda (http://continuum.io/downloads) or canopy (https://store.enthought.com/downloads/) as your python distribution. However any standard python distribution should work. People with computers running Mac O

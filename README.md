@@ -1,2 +1,1 @@
-# DTU-deeplearning.github.io
-Readme
+# My Blog

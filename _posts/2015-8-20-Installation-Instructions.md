@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Installation Instructions
-excerpt: Guides to the prerequisite software/libraries needed to run the excercises
+excerpt: Guides to the prerequisite software/libraries needed to run the exercises
 date: 2015-08-20T11:00:00.000Z
 mathjax: true
 published: true

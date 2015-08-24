@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Running an Exercise
 excerpt: How to run an Exercise using Ipython Notebook
-date: 2015-08-20T11:00:00.000Z
+date: 2015-08-21T11:00:00.000Z
 mathjax: true
 published: true
 ---

@@ -8,8 +8,11 @@ This is cotains the excercises for the DTU summer school *02901 Advanced Topics 
 
 The exercises was made by:
 **Anders Lindbo**
+
 **Casper Kaae Sønderby**
-**Lars Maaløe** 
+
+**Lars Maaløe**
+
 **Søren Kaae Sønderby**
 
 If you find any bugs/typos in the excercises please let us know by creating an issue on the relevant github page.

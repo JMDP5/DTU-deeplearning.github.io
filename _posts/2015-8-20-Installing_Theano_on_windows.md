@@ -14,10 +14,10 @@ Seems like quite a few people using windows computers have problems with install
 However it should be possible :)
 
 To make theano work you will to
- * NOT install CUDO eventhough you have a GPU, you won't need it and its seems to complicate installations quite a bit.
- * The GCC compiler. See [here](http://deeplearning.net/software/theano/install_windows.html#gcc) for installation instructions.
- * A python installation with numpy. WinPython seems like a good choice for theano. Follow instructions [here](http://deeplearning.net/software/theano/install_windows.html#scientific-python-distribution). After installation of python please check that you can import numpy in ipython.
- * Theano should be shipped with WinPython - can some windows-user please confirm this?
+* NOT install CUDO eventhough you have a GPU, you won't need it and its seems to complicate installations quite a bit.
+* The GCC compiler. See [here](http://deeplearning.net/software/theano/install_windows.html#gcc) for installation instructions.
+* A python installation with numpy. WinPython seems like a good choice for theano. Follow instructions [here](http://deeplearning.net/software/theano/install_windows.html#scientific-python-distribution). After installation of python please check that you can import numpy in ipython.
+* Theano should be shipped with WinPython - can some windows-user please confirm this?
 
 
 
